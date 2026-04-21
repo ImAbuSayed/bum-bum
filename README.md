@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> قلبي ينادي في نص الليل
+> شوقي لك نار ماله مثيل
+> روحي تعشق هذا النور
+> عيني تشوفك كل شعور
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
