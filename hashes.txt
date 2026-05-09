@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bum Bum
+
+This log tracks the cryptographic history and versioning for the song **Bum Bum** (bum-bum).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:12:09.976046 | `v1` | `4902562dadf08197f3347a138335ef99423f18caf06d3d1d60c14a644c38c9fe` | `7eb36c15fe57a23429847498f559cf7a22c536eb70f393e219c1d4cee072db8b` | `2026-05-09_bum-bum-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
